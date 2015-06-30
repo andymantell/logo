@@ -1,4 +1,4 @@
 # logo
-<img src="https://rawgit.com/andymantell/logo/master/dist/andy-mantell.svg" width="104" height="10" /><br><br>
-<img src="https://rawgit.com/andymantell/logo/master/dist/andy-mantell.svg" width="208" height="20" /><br><br>
-<img src="https://rawgit.com/andymantell/logo/master/dist/andy-mantell.svg" width="416" height="40" />
+<img src="https://rawgit.com/andymantell/logo/master/dist/andy-mantell.svg" width="105" height="14" /><br><br>
+<img src="https://rawgit.com/andymantell/logo/master/dist/andy-mantell.svg" width="210" height="28" /><br><br>
+<img src="https://rawgit.com/andymantell/logo/master/dist/andy-mantell.svg" width="420" height="54" />
