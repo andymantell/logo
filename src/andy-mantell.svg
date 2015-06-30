@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="no"?>
 
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 208 20" width="416" height="40">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 210 28" width="420" height="54">
 
   <style type="text/css" >
     <![CDATA[
 
       .silhouette,
       .counter {
-        fill:   #3b637e;
+        fill:   #000;
       }
 
       .letter {
@@ -25,8 +25,7 @@
                                    l 0 20
                                    l -9 0
                                    l 0 -5
-                                   l -4 0
-                                   l 0 5
+                                   l -4 5
                                    l -9 0
                                    z" />
 
@@ -42,7 +41,7 @@
 
       <path class="counter"     d="M 6 5
                                    l 8 0
-                                   l 0 5
+                                   l 0 4
                                    l -8 0
                                    z"/>
     </g>
@@ -53,8 +52,8 @@
                                    l 0 20
                                    l -9 0
                                    l 0 -12
-                                   l -4 0
-                                   l 0 12
+                                   l -4 4
+                                   l 0 8
                                    l -9 0
                                    z" />
 
@@ -70,7 +69,13 @@
     </g>
 
     <g id="D">
-      <rect x="-1" y="0" height="20" width="22" class="silhouette" />
+      <path class="silhouette"  d="M -1 0
+                                   l 22 0
+                                   l 0 16
+
+                                   l -4 4
+                                   l -18 0
+                                   z" />
 
       <path class="letter"      d="M 2 2
                                    l 12 0
@@ -93,8 +98,12 @@
                                    l 6 4
                                    l 6 -4
                                    l 5 0
-                                   l 0 20
-                                   l -22 0
+                                   l 0 10
+                                   l -6 4
+                                   l 0 6
+                                   l -10 0
+                                   l 0 -6
+                                   l -6 -4
                                    z" />
 
       <path class="letter"      d="M 2 2
@@ -128,7 +137,15 @@
     </g>
 
     <g id="T">
-      <rect x="-1" y="0" height="20" width="22" class="silhouette" />
+      <path class="silhouette"  d="M -1 0
+                                   l 22 0
+                                   l 0 6
+                                   l -6 4
+                                   l 0 10
+                                   l -10 0
+                                   l 0 -10
+                                   l -6 -4
+                                   z" />
 
       <path class="letter"      d="M 2 2
                                    l 16 0
@@ -160,7 +177,15 @@
     </g>
 
     <g id="L">
-      <rect x="-1" y="0" height="20" width="18" class="silhouette" />
+      <!-- <rect x="-1" y="0" height="20" width="18" class="silhouette" /> -->
+
+      <path class="silhouette"  d="M -1 0
+                                   l 10 0
+                                   l 0 12
+                                   l 8 0
+                                   l 0 8
+                                   l -18 0
+                                   z" />
 
       <path class="letter"      d="M 2 2
                                    l 4 0
@@ -173,16 +198,21 @@
 
   </defs>
 
-  <use xlink:href="#A" />
-  <use xlink:href="#N" x="20" />
-  <use xlink:href="#D" x="40" />
-  <use xlink:href="#Y" x="60" />
-  <use xlink:href="#M" x="80" />
-  <use xlink:href="#A" x="100" />
-  <use xlink:href="#N" x="120" />
-  <use xlink:href="#T" x="140" />
-  <use xlink:href="#E" x="160" />
-  <use xlink:href="#L" x="176" />
-  <use xlink:href="#L" x="192" />
+
+  <rect x="-1" y="0" height="28" width="420" style="fill:yellow" />
+
+  <g transform="translate(4 4)">
+    <use xlink:href="#A" />
+    <use xlink:href="#N" x="20" />
+    <use xlink:href="#D" x="40" />
+    <use xlink:href="#Y" x="59" />
+    <use xlink:href="#M" x="78" />
+    <use xlink:href="#A" x="98" />
+    <use xlink:href="#N" x="118" />
+    <use xlink:href="#T" x="137" />
+    <use xlink:href="#E" x="156" />
+    <use xlink:href="#L" x="172" />
+    <use xlink:href="#L" x="188" />
+  </g>
 
 </svg>
