@@ -1,6 +1,6 @@
 module.exports = {
   svg: {
-    files: 'andy-mantell.svg',
+    files: 'src/*.svg',
     tasks: ['svgmin']
   }
 };
