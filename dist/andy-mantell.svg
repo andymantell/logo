@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 208 20" width="416" height="40"><style><![CDATA[
+
+      .silhouette,
+      .counter {
+        fill:   #000;
+      }
+
+      .letter {
+        fill: #fff;
+      }
+
+    ]]></style><defs><g id="A"><path class="silhouette" d="M0 0h20v20h-8v-5H8v5H0z"/><path class="letter" d="M2 2h16v16h-4v-5H6v5H2z"/><path class="counter" d="M6 5h8v5H6z"/></g><g id="N"><path class="silhouette" d="M0 0h20v20h-8V8H8v12H0z"/><path class="letter" d="M2 2h16v16h-4V6H6v12H2z"/></g><g id="D"><path class="silhouette" d="M0 0h20v20H0z"/><path class="letter" d="M2 2h12v12h4V6H6v8h8v4H2z"/></g><g id="Y"><path class="silhouette" d="M0 0h4l6 4 6-4h4v20H0z"/><path class="letter" d="M2 2l8 6 8-6v5l-6 4.5V18H8v-6.5L2 7z"/></g><g id="M"><path class="silhouette" d="M0 0h20v20H0z"/><path class="letter" d="M2 2h16v16h-4V6h-2v12H8V6H6v12H2z"/></g><g id="T"><path class="silhouette" d="M0 0h20v20H0z"/><path class="letter" d="M2 2h16v4h-6v12H8V6H2z"/></g><g id="E"><path class="silhouette" d="M0 0h16v20H0z"/><path class="letter" d="M2 2h12v3H6v3.5h8v3H6V15h8v3H2z"/></g><g id="L"><path class="silhouette" d="M0 0h16v20H0z"/><path class="letter" d="M2 2h4v12h8v4H2z"/></g></defs><use xlink:href="#A"/><use xlink:href="#N" x="20"/><use xlink:href="#D" x="40"/><use xlink:href="#Y" x="60"/><use xlink:href="#M" x="80"/><use xlink:href="#A" x="100"/><use xlink:href="#N" x="120"/><use xlink:href="#T" x="140"/><use xlink:href="#E" x="160"/><use xlink:href="#L" x="176"/><use xlink:href="#L" x="192"/></svg>

@@ -1,0 +1,26 @@
+{
+  "name": "logo",
+  "version": "0.0.0",
+  "description": "<img src=\"https://rawgit.com/andymantell/logo/master/andy-mantell.svg\" width=\"104\" height=\"10\" /><br> <img src=\"https://rawgit.com/andymantell/logo/master/andy-mantell.svg\" width=\"208\" height=\"20\" /><br> <img src=\"https://rawgit.com/andymantell/logo/master/andy-mantell.svg\" width=\"416\" height=\"40\" />",
+  "main": "andy-mantell.svg",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andymantell/logo.git"
+  },
+  "author": "Andy Mantell <contact@andymantell.com> (http://andymantell.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andymantell/logo/issues"
+  },
+  "homepage": "https://github.com/andymantell/logo",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-svgmin": "^2.0.1",
+    "load-grunt-config": "^0.17.1",
+    "time-grunt": "^1.2.1"
+  }
+}
