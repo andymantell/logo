@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="no"?>
 
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 210 28" width="420" height="54">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="424" height="54">
 
   <style type="text/css" >
     <![CDATA[
@@ -177,8 +177,6 @@
     </g>
 
     <g id="L">
-      <!-- <rect x="-1" y="0" height="20" width="18" class="silhouette" /> -->
-
       <path class="silhouette"  d="M -1 0
                                    l 10 0
                                    l 0 12
@@ -199,7 +197,7 @@
   </defs>
 
 
-  <rect x="-1" y="0" height="28" width="420" style="fill:yellow" />
+  <rect x="0" y="0" height="28" width="212" style="fill:yellow" />
 
   <g transform="translate(4 4)">
     <use xlink:href="#A" />
