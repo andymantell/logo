@@ -8,7 +8,7 @@
 
       .silhouette,
       .counter {
-        fill:   #000;
+        fill:   #3b637e;
       }
 
       .letter {
