@@ -1,6 +1,6 @@
 {
   "name": "logo",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "<img src=\"https://rawgit.com/andymantell/logo/master/andy-mantell.svg\" width=\"104\" height=\"10\" /><br> <img src=\"https://rawgit.com/andymantell/logo/master/andy-mantell.svg\" width=\"208\" height=\"20\" /><br> <img src=\"https://rawgit.com/andymantell/logo/master/andy-mantell.svg\" width=\"416\" height=\"40\" />",
   "main": "index.js",
   "scripts": {
