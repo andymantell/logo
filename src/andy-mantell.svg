@@ -197,7 +197,7 @@
   </defs>
 
 
-  <rect x="0" y="0" height="28" width="212" style="fill:yellow" />
+  <rect x="0" y="0" height="28" width="212" style="fill:#f3df49" />
 
   <g transform="translate(4 4)">
     <use xlink:href="#A" />
